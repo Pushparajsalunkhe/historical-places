@@ -1,7 +1,7 @@
 # Historical-Places-in-India
 # 🇮🇳 Historical Places in India - Web Project
 
-This project is a *responsive static website* built using *HTML and CSS. It showcases **8 of the most iconic historical places in India*, with beautiful images and detailed descriptions of each site.
+## 🇮🇳 This project is a *responsive static website** built using *HTML and CSS. It showcases **8 of the most iconic historical places in India*, with beautiful images and detailed descriptions of each site.
 
 ---
 
